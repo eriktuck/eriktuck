@@ -36,6 +36,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/eriktanderson/).
 
 <!--
 **eanderson-ei/eanderson-ei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
 https://medium.com/javascript-in-plain-english/how-to-create-an-awesome-github-profile-readme-a474d5b45645
 https://medium.com/@dipneupane/replace-your-resume-with-an-impressive-github-profile-readme-3019183a3029
 https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783
