@@ -3,4 +3,4 @@
 
 Data scientist using AI and knowledge graphs to help organizations learn faster and make smarter decisions. Believer in open data, human-centered design, and tech for good.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/eriktanderson/).
+Find me at [eriktuck.com](https://eriktuck.com).
